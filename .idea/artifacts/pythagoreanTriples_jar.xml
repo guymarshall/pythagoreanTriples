@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="pythagoreanTriples:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/pythagoreanTriples_jar</output-path>
+    <root id="archive" name="pythagoreanTriples.jar">
+      <element id="module-output" name="pythagoreanTriples" />
+    </root>
+  </artifact>
+</component>
