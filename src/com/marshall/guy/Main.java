@@ -35,7 +35,7 @@ public class Main {
                     if (sideC * sideC == (sideA * sideA + sideB * sideB)) {
                         numberTriplesCalculated++;
                         result = new int[]{sideB, sideA, sideC};
-                        System.out.println(Arrays.toString(result));
+                        System.out.println(numberTriplesCalculated + ": " + Arrays.toString(result));
 
                         if (numberTriplesCalculated == numberTriplesNeeded) {
                             loopA = false;
