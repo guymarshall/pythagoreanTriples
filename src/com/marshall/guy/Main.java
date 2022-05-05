@@ -23,7 +23,7 @@ public class Main {
 
         boolean loopA = numberTriplesNeeded > 0;
 
-        int[] result = {3};
+        int[] result;
 
         while (loopA) {
             int sideB = 1;
